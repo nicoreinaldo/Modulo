@@ -19,6 +19,7 @@
 ## Construcción y Ejecución
 
 Para este proyecto no debe instalar las tecnologias anterioremente mecionadas, ya que esta buildeada en un contenedor docker, los pasos a seguir:
+
 Si no lo tienes puedes verificar aqui como instalarlo: https://docs.docker.com/get-docker/
 
 1. Asegúrate de tener Docker en funcionamiento en tu máquina.
@@ -50,7 +51,7 @@ POST :
   ]
 }'`
 
-La segunda es atravez de Postman (Herramienta para el testeo de api rest)
+La segunda es a travez de Postman (Herramienta para el testeo de api rest)
 
 GET :
 
